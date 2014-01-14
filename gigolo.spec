@@ -1,11 +1,11 @@
 Summary:	Connections manager for GVFS
 Name:		gigolo
-Version:	0.4.1
+Version:	0.4.2
 Release:	1
 License:	GPL v2
 Group:		Applications
 Source0:	http://files.uvena.de/gigolo/%{name}-%{version}.tar.bz2
-# Source0-md5:	760bdc5753768214b379733a728b0c80
+# Source0-md5:	4abc6fde56572adf3ec3a0181092584c
 URL:		http://www.uvena.de/gigolo/
 BuildRequires:	autoconf
 BuildRequires:	automake
